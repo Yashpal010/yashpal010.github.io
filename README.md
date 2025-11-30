@@ -1,37 +1,53 @@
-<div align="center">
-<h1 align="center">Oh, So Simple HTML CV!</h1>
+<h1 align="center">Hi 👋, I'm Yashpalsinh Raj</h1>
+<h3 align="center">Passionate Developer & Tech Enthusiast</h3>
 
-<img alt="Simple HTML CV" src="https://github.com/ritaly/HTML-CSS-CV-demo/blob/master/img/resume_icon.png" />
+---
 
-HTML and CSS template for your outstanding job applications
-</div>
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **personal projects and learning full-stack development**
+- 🌱 I’m learning **JavaScript, React, Node.js, and Cloud basics**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, Git & GitHub**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: *I love solving real-world problems using tech!*
 
-## What is Oh, So Simple HTML CV?
+---
 
-**Oh, So Clear HTML CV!** is simple, clear and aesthetic **Resume** template for beginners to better understand HTML5 and CSS basics by example.
+### 🚀 Skills & Tools
+**Languages:**  
+`HTML` `CSS` `JavaScript` `Python` `C++`  
 
-**This page will help you:**
+**Tools & Technologies:**  
+`Git` `GitHub` `VS Code` `Node.js` `React` `Firebase`  
 
-* create legible *CV (Curriculum Vitae)* / *Resume*
-* create website with HTML5 and CSS
-* create CSS flexbox layout
-* implement good-looking responsive layouts
-* use Font Awesome 5 for social media
+---
 
-This repo contains the final source code for free tutorial.
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165">
+</p>
 
-Full explanation and task you can find in Polish: [CV HTML / CSS](https://www.flynerd.pl/2018/07/stworz-cv-w-html-i-css-krok-po-kroku.html)
+---
 
-## Demo
-Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
+### 🔗 Connect With Me
+<p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
-## Credits
-Please feel free to copy any part of this repo for your own uses.
+---
 
-**[Fly Nerd](https://www.flynerd.pl/)** - I will be happy if you mention **FlyNerd** as an inspiration.
+### 🛠️ Featured Projects
+- ⭐ **Project 1:** Short description here  
+- ⭐ **Project 2:** Short description here  
+- ⭐ **Project 3:** Short description here  
 
-Thanks:
+---
 
-- **Raleway** - set of free fonts thanks to Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
-
-- **Freepik** - title icon made by [Freepick](http://www.freepik.com), licensed: CC 3.0
+### 🙌 Thanks for visiting my profile!
+⭐ *Feel free to star my repositories or reach out for collaboration!* ⭐
